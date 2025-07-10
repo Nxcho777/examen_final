@@ -1,11 +1,11 @@
 productos = {"8475HD" : {"marca" : "HP","pantalla": 15.6,"ram": "8GB","disco": "DD","GBdeDD": "1T","procesador": "Intel Core i5","video": "Nvidia GTX1050"} ,
-             "2175HD": {"marca": "Acer","pantalla": 14,"ram": "4GB","disco": "SSD","GBdeDD": "412GB","procesador": "Intel Core i5","video": "Nvidia GTX1050"},
-             "GF75HD": {"marca": "Asus", "pantalla": 15.6,"ram": "12GB","disco": "DD","GBdeDD": "1T","procesador": "Intel Core i7","video": "Nvidia GTX1050"}
+             "2175HD": {"marca": "Dell","pantalla": 14,"ram": "4GB","disco": "SSD","GBdeDD": "412GB","procesador": "Intel Core i5","video": "Nvidia GTX1050"},
+             "GF75HD": {"marca": "MSI", "pantalla": 15.6,"ram": "12GB","disco": "DD","GBdeDD": "1T","procesador": "Intel Core i7","video": "Nvidia GTX1050"}
 }
 
-stock = {"8475HD" : {"precio": 387990, "stock": 20 },
-        "2175HD": {"precio": 327990, "stock": 14},
-        "GF75HD": {"precio": 749990, "stock": 26}
+stock = {"8475HD" : {"precio": 38799000, "stock": 50000 },
+        "2175HD": {"precio": 421025, "stock": 303},
+        "GF75HD": {"precio": 54545, "stock": 2446}
 }
 
 def stock_marca(marca): 
