@@ -3,9 +3,9 @@ productos = {"8475HD" : {"marca" : "HP","pantalla": 15.6,"ram": "8GB","disco": "
              "GF75HD": {"marca": "MSI", "pantalla": 15.6,"ram": "12GB","disco": "DD","GBdeDD": "1T","procesador": "Intel Core i7","video": "Nvidia GTX1050"}
 }
 
-stock = {"8475HD" : {"precio": 38799000, "stock": 50000 },
-        "2175HD": {"precio": 421025, "stock": 303},
-        "GF75HD": {"precio": 54545, "stock": 2446}
+stock = {"8475HD" : {"precio": 38799000, "stock": 20},
+        "2175HD": {"precio": 421025, "stock": 14},
+        "GF75HD": {"precio": 54545, "stock": 26}
 }
 
 def stock_marca(marca): 
